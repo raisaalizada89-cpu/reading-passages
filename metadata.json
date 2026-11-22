@@ -1,0 +1,6 @@
+{
+  "name": "Verba & Verse",
+  "description": "An illustrated English literature and story studio (B1–C2) with read-aloud audio narration, instant click-any-word English definitions, and post-reading vocabulary challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
